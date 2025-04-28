@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1744288474" />
+    <testcase name="test_d2d_sha_wrapper" classname="test_d2d_sha" file="/home/hwani/Desktop/d2d_sha/test_d2d_sha.py" lineno="5" time="0.04058480262756348" sim_time_ns="3000.001" ratio_time="73919.31969043326" />
+  </testsuite>
+</testsuites>
